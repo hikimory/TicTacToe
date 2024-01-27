@@ -7,4 +7,6 @@
     |_|  |_|\___|_|\__,_|\___|_|\___/ \___|
 ```
                                            
-## Only has pvp mode                                           
+## Only has pvp mode 
+
+![Preview](preview/preview.PNG)
